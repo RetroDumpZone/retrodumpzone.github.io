@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>404</title>
+	<title>e reader</title>
 </head>
 <body>
-	<p>404 good for you</p>
+	<p>e reader</p>
 </body>
